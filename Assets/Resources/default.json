@@ -1,0 +1,182 @@
+{
+    "packDatas": [
+       
+    {
+        "name": "Animal",
+        "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/banners/banner_1.jpg",
+        "price": 50,
+        "photoDatas": [
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/icons/icon_0.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/images/image_0.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/banners/banner_0.jpg"
+          },
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/icons/icon_1.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/images/image_1.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/banners/banner_1.jpg"
+          },
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/icons/icon_2.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/images/image_2.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/banners/banner_2.jpg"
+          },
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/icons/icon_3.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/images/image_3.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/banners/banner_3.jpg"
+          },
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/icons/icon_4.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/images/image_4.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Animal/banners/banner_4.jpg"
+          }
+         
+        ]
+      },
+      {
+        "name": "Architecture",
+        "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/banners/banner_0.jpg",
+        "price": 50,
+        "photoDatas": [
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/icons/icon_0.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/images/image_0.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/banners/banner_0.jpg"
+          },
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/icons/icon_1.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/images/image_1.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/banners/banner_1.jpg"
+          },
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/icons/icon_2.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/images/image_2.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/banners/banner_2.jpg"
+          },
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/icons/icon_3.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/images/image_3.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/banners/banner_3.jpg"
+          },
+          {
+            "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/icons/icon_4.jpg",
+            "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/images/image_4.jpg",
+            "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Architecture/banners/banner_4.jpg"
+          }
+        ]
+      }   
+      ,
+    {
+      "name": "Christmas",
+      "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/banners/banner_3.jpg",
+      "price": 40,
+      "photoDatas": [
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/icons/icon_0.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/images/image_0.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/banners/banner_0.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/icons/icon_1.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/images/image_1.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/banners/banner_1.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/icons/icon_2.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/images/image_2.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/banners/banner_2.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/icons/icon_3.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/images/image_3.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/banners/banner_3.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/icons/icon_4.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/images/image_4.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/banners/banner_4.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/icons/icon_5.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/images/image_5.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/banners/banner_5.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/icons/icon_6.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/images/image_6.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/banners/banner_6.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/icons/icon_7.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/images/image_7.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/christmas/banners/banner_7.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Interieur",
+      "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/banners/banner_1.jpg",
+      "price": 50,
+      "photoDatas": [
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/icons/icon_0.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/images/image_0.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/banners/banner_0.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/icons/icon_1.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/images/image_1.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/banners/banner_1.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/icons/icon_2.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/images/image_2.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/banners/banner_2.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/icons/icon_3.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/images/image_3.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/banners/banner_3.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/icons/icon_4.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/images/image_4.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Interieur/banners/banner_4.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Nature",
+      "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/banners/banner_2.jpg",
+      "price": 40,
+      "photoDatas": [
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/icons/icon_0.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/images/image_0.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/banners/banner_0.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/icons/icon_1.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/images/image_1.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/banners/banner_1.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/icons/icon_2.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/images/image_2.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/banners/banner_2.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/icons/icon_3.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/images/image_3.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/banners/banner_3.jpg"
+        },
+        {
+          "iconUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/icons/icon_4.jpg",
+          "imageUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/images/image_4.jpg",
+          "bannerUrl": "https://jigswa.kidzygames.com/defaultpacks/Nature/banners/banner_4.jpg"
+        }
+      ]
+    }
+    ]
+}
